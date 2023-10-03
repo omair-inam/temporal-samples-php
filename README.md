@@ -12,7 +12,7 @@ to start the application on host machine.
 ## Docker Compose setup
 **1. Download the repository.**
 ```bash
-$ git clone git@github.com:temporalio/samples-php.git
+$ git clone git@github.com:omair-inam/temporal-samples-php.git
 $ cd samples-php
 ```
 
